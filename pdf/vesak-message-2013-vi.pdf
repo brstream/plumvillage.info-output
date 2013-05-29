@@ -1,0 +1,223 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 4 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F3': class PDFType1Font 
+4 0 obj
+% Font ZapfDingbats
+<< /BaseFont /ZapfDingbats
+ /Encoding /ZapfDingbatsEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+5 0 obj
+% Page dictionary
+<< /Contents 9 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 8 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R6': class PDFCatalog 
+6 0 obj
+% Document Root
+<< /Outlines 10 0 R
+ /PageLabels 11 0 R
+ /PageMode /UseNone
+ /Pages 8 0 R
+ /Type /Catalog >>
+endobj
+% 'R7': class PDFInfo 
+7 0 obj
+<< /Author ()
+ /CreationDate (D:20130527103427-01'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (\376\377\000T\000h\000\364\000n\000g\000 \001\021\000i\036\307\000p\000 \000P\000h\036\255\000t\000 \001\021\036\243\000n\000 \0002\0000\0001\0003) >>
+endobj
+% 'R8': class PDFPages 
+8 0 obj
+% page tree
+<< /Count 1
+ /Kids [ 5 0 R ]
+ /Type /Pages >>
+endobj
+% 'R9': class PDFStream 
+9 0 obj
+% page stream
+<< /Length 23482 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 101.8749 0 Td (Th\364ng ) Tj /F3 20 Tf 24 TL (n) Tj /F2 20 Tf 24 TL (i) Tj /F3 20 Tf 24 TL (n) Tj /F2 20 Tf 24 TL (p Ph) Tj /F3 20 Tf 24 TL (n) Tj /F2 20 Tf 24 TL (t ) Tj /F3 20 Tf 24 TL (nn) Tj /F2 20 Tf 24 TL (n 2013) Tj T* -101.8749 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 716.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 49.14937 0 Td (slug:) Tj T* -49.14937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (vesak-message-2013) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 701.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 49.14937 0 Td (lang:) Tj T* -49.14937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (vi) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 623.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL .384692 Tw (Ho\340ng h) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (u Mahamaya sinh Siddhartha m) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t c\341ch r) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t d) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( d\340ng. Tr\352n con ) Tj /F3 10 Tf 12 TL (nnn) Tj /F1 10 Tf 12 TL (ng v) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( qu\352 ngo) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (i ) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL ( sinh) Tj T* 0 Tw 1.092988 Tw (n) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (, b\340 v\340 ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (o\340n t\371y t\371ng d) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (ng ch\342n ngh) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( ng) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (i ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( v) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL (n Lumbini. ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (ang ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (i d) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (o th\354 b\340 c) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (m th) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (y gi\342y) Tj T* 0 Tw .800488 Tw (ph\372t sinh n) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (ang t) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (i. B\340 v\355u v\340o m) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t c\340nh c\342y asoka, v\340 sinh ra th\341i t) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( Siddhartha trong th) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( ) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL (ng.) Tj T* 0 Tw .61408 Tw (C\341c th) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( n) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (\343 k) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (p th) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (i ) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL ( l) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (y em b\351 v) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (i nh) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (ng trang b) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( c) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (n thi) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (\343 ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (em theo s) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (n. Sau khi sinh) Tj T* 0 Tw .96061 Tw (Siddhartha, b\340 Mahamaya tr) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( v) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( l) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (i Kapilavastu. C\363 nh) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (ng ng) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL (i h) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (u c) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (n ) Tj /F3 10 Tf 12 TL (nnn) Tj /F1 10 Tf 12 TL (c g) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (i v) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( tr) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL (c ) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL T* 0 Tw (th\364ng b\341o tin m) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (ng n\340y cho c) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( hai b\352n n) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (i ngo) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (i.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 485.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 122 Tm /F1 10 Tf 12 TL .13528 Tw (C\364ng n) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL (ng Yasodhara khi sinh b\351 Rahula, con c) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (a Siddhartha, l) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (i g) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (p r) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t nhi) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (u kh\363 kh) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (n. Th) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (i gian) Tj T* 0 Tw .495703 Tw (sinh n) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( k\351o d\340i, c\363 l\372c ng) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL (i ta t) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL (ng hai m) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( con ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (\343 kh\364ng qua kh) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (i nh) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (ng gi\342y ph\372t kh\363 kh) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (n c) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (c) Tj T* 0 Tw .562988 Tw /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL ( ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (\363. C) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( ho\340ng gia trong ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (\363 c\363 Siddhartha, ) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL (u nh) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (p nh) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (m lo \342u, n) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (ng l) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL (ng s) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( h\343i t) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (p th) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( r) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t) Tj T* 0 Tw 1.012765 Tw (l) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (n, bao tr\371m c) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( cung ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (i) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (n. May thay, cu) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (i c\371ng r) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (i Yasodhara c) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (ng sinh ) Tj /F3 10 Tf 12 TL (nnn) Tj /F1 10 Tf 12 TL (c Rahula. Ta c\363 th) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL T* 0 Tw .308221 Tw (th) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (y ) Tj /F3 10 Tf 12 TL (nnn) Tj /F1 10 Tf 12 TL (c r) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (ng trong th) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (i gian thai ngh\351n Rahula, Siddhartha ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (ang l\342m v\340o m) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t t\354nh tr) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (ng thao th) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (c,) Tj T* 0 Tw 1.18332 Tw (b) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t an, kh\364ng c\363 ) Tj /F3 10 Tf 12 TL (nnn) Tj /F1 10 Tf 12 TL (c h) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (nh ph\372c trong gi\342y ph\372t hi) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (n t) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (i. Ch) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (ng ki) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (n nh) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (ng kh) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (au trong b) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (n) Tj T* 0 Tw 1.876457 Tw (th\342n, trong gia ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (\354nh v\340 c) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( trong v) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL (ng qu) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (c, Siddhartha kh\364ng l\362ng n\340o ng) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (i ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (\363 m\340 h) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL (ng th) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL T* 0 Tw .388876 Tw (nh) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (ng ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (i) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (u ki) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (n c) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (a m) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t cu) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (c s) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (ng ph\371 phi) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (m xa hoa. Yasodhara th) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (y ) Tj /F3 10 Tf 12 TL (nnn) Tj /F1 10 Tf 12 TL (c t) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t c) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( nh) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (ng b) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t an) Tj T* 0 Tw .294692 Tw /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (y n) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (i Siddhartha nh) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (ng kh\364ng bi) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t c\341ch n\340o ) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL ( gi\372p Siddhartha. Nh) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (ng thao th) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (c kh) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (au d) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (n v) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t) Tj T* 0 Tw .295777 Tw (c) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (a Siddhartha ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (\343 ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (i v\340o trong Yasodhara v\340 trong c) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( b\351 Rahula. Sinh n) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( kh\363 kh) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (n \355t nh) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t m) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t ph) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (n) Tj T* 0 Tw (c) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (ng do nguy\352n do n\340y.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 455.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .77104 Tw (Kinh nghi) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (m sinh n) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( kh\363 kh) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (n ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (y ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (\343 g\363p m) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t ph) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (n trong quy) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t ) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL (nh c) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (a Siddhartha b) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( nh\340 ra ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (i) Tj T* 0 Tw (t\354m ) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL (o. Yasodhara ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (\343 hi) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (u v\340 ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (\343 ch) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (p nh) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (n.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 377.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL .962765 Tw (May m) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (n cho ch\372ng ta l\340 Siddhartha ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (\343 th\340nh c\364ng. S) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( th\340nh c\364ng c) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (a Siddhartha l\340 m) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t s) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( th\340nh) Tj T* 0 Tw .819988 Tw (c\364ng l) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (n c) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (a c) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( nh\342n lo) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (i, c) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (ng nh) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( khi Neil Armstrong ) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL (t b) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL (c ch\342n ) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL (u ti\352n l\352n m) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t tr) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (ng ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (\343) Tj T* 0 Tw 1.306098 Tw (n\363i r) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (ng ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (\342y l\340 m) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t b) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL (c ti) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (n l) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (n c) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (a nh\342n lo) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (i v) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( ph) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL (ng di) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (n khoa h) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (c k) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( thu) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t. Siddhartha) Tj T* 0 Tw .276988 Tw (th\340nh c\364ng cho t) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t c) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( ch\372ng ta. Siddhartha t\354m ra ) Tj /F3 10 Tf 12 TL (nnn) Tj /F1 10 Tf 12 TL (c con ) Tj /F3 10 Tf 12 TL (nnn) Tj /F1 10 Tf 12 TL (ng gi\372p ta x) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( l\375 ) Tj /F3 10 Tf 12 TL (nnn) Tj /F1 10 Tf 12 TL (c kh) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (au, ch) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL T* 0 Tw .415251 Tw (t\341c ) Tj /F3 10 Tf 12 TL (nnn) Tj /F1 10 Tf 12 TL (c h) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( l) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (c trong ) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL (i s) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (ng h\340ng ng\340y, v) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL (t tho\341t ) Tj /F3 10 Tf 12 TL (nnn) Tj /F1 10 Tf 12 TL (c nh) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (ng h) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( l) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (y c) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (a danh v) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (ng, ti) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (n t\340i,) Tj T* 0 Tw (quy) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (n h\340nh v\340 s) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (c d) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (c, ) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL (ng th) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (i ti) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (p x\372c ) Tj /F3 10 Tf 12 TL (nnn) Tj /F1 10 Tf 12 TL (c t) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (i t) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( t\355nh v\364 sinh b) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t di) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t c) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (a hi) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (n h) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (u.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 299.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL .64683 Tw (Ng\340y h\364m nay ta ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (n m) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (ng s) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( xu) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t hi) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (n c) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (a Siddhartha tr\352n h\340nh tinh n\340y. Nh) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (ng h) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (u h) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t ch\372ng ta) Tj T* 0 Tw 1.236098 Tw /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL (u ch) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( bi) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t t\364n s\371ng Siddhartha nh) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( m) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t quy) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (n l) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (c thi\352ng li\352ng c\363 kh) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( n) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (ng ban ph\372c tr) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( h) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (a.) Tj T* 0 Tw .789461 Tw (Kh\364ng m) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (y ai trong ch\372ng ta ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (ang ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (i ) Tj /F3 10 Tf 12 TL (nnn) Tj /F1 10 Tf 12 TL (c tr\352n ) Tj /F3 10 Tf 12 TL (nnn) Tj /F1 10 Tf 12 TL (ng Siddhartha ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (\343 ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (i, bi) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t c\341ch x) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( l\375 kh) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (au,) Tj T* 0 Tw 1.325251 Tw (ch) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( t\341c h) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (nh ph\372c, t\341i l) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (p ) Tj /F3 10 Tf 12 TL (nnn) Tj /F1 10 Tf 12 TL (c truy) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (n th\364ng, ti) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (p x\372c v) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (i Ni) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t b\340n trong hi) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (n t) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (i. ) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL (o B) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t c) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (a) Tj T* 0 Tw .449989 Tw (ch\372ng ta ph) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (n l) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (n ch) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( l\340 ) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL (o B) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t c) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (a t\355n m) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (. Nh) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (ng g\354 m\340 B) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t khuy\352n ch\372ng ta n\352n bu\364ng b) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( nh) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL T* 0 Tw (danh l) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (i, t\340i s) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (c v.v... b\342y gi) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( ch\372ng ta l) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (i c) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (u B) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t ban cho ch\372ng ta nh) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (ng c\341i ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (\363.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 209.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 74 Tm /F1 10 Tf 12 TL .104198 Tw (Th) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (c t) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (p ni) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (m ) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL (nh tu) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( ) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL ( ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (i tr\352n con ) Tj /F3 10 Tf 12 TL (nnn) Tj /F1 10 Tf 12 TL (ng b\341t ch\341nh nh) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( con ) Tj /F3 10 Tf 12 TL (nnn) Tj /F1 10 Tf 12 TL (ng h) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (nh ph\372c trong gi\342y ph\372t) Tj T* 0 Tw .053488 Tw (hi) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (n t) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (i ch) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( c\362n l\340 m) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t ph) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (n nh) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (. Ch\372ng ta ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (\343 kh\364ng bi) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t th) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (a h) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL (ng nh) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (ng ph) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (n qu\375 gi\341 nh) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t c) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (a) Tj T* 0 Tw .274274 Tw (gia t\340i t\342m linh m\340 Siddhartha ) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL ( l) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (i. ) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL (o B) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t c) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (a ch\372ng ta ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (\343 h) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( h\363a, kh\364ng c\362n ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (\363ng ) Tj /F3 10 Tf 12 TL (nnn) Tj /F1 10 Tf 12 TL (c vai tr\362) Tj T* 0 Tw .631417 Tw (nh) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( ng\340y x) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (a. Ch\372ng ta ph) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (i n) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( l) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (c l\340m m) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (i ) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL (o B) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t ) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL ( ) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL (o B) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t c\363 th) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( ti) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (p t) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (c ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (\363ng ) Tj /F3 10 Tf 12 TL (nnn) Tj /F1 10 Tf 12 TL (c vai) Tj T* 0 Tw .234535 Tw (tr\362 c) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (a n\363 trong vi) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (c ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (em l) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (i an b\354nh cho b) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (n th\342n, gia ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (\354nh, ) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL (t n) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL (c v\340 x\343 h) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (i. Ch) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( th) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (c t) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (p ) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL (o) Tj T* 0 Tw .704488 Tw (B) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t t\355n m) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (, c) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( ng\340y ch) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( c\372i r) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (p m\354nh d) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL (i m) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (y c\342y h) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL (ng, ch\372ng ta s) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( kh\364ng l\340m ) Tj /F3 10 Tf 12 TL (nnn) Tj /F1 10 Tf 12 TL (c vi) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (c ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (\363,) Tj T* 0 Tw (ch\372ng ta s) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( kh\364ng x) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (ng ) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (\341ng l\340 con ch\341u c) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (a b) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (c ) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL (i H\371ng.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R10': class PDFOutlines 
+10 0 obj
+<< /Count 0
+ /Type /Outlines >>
+endobj
+% 'R11': class PDFPageLabels 
+11 0 obj
+% Document Root
+<< /Nums [ 0
+ 12 0 R ] >>
+endobj
+% 'R12': class PDFPageLabel 
+12 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+xref
+0 13
+0000000000 65535 f
+0000000113 00000 n
+0000000233 00000 n
+0000000398 00000 n
+0000000573 00000 n
+0000000747 00000 n
+0000001024 00000 n
+0000001180 00000 n
+0000001569 00000 n
+0000001674 00000 n
+0000025257 00000 n
+0000025340 00000 n
+0000025433 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(2k\235\030\012R\264[\016V\224\333+\200\353B) (2k\235\030\012R\264[\016V\224\333+\200\353B)] 
+
+ /Info 7 0 R
+ /Root 6 0 R
+ /Size 13 >>
+startxref
+25480
+%%EOF
