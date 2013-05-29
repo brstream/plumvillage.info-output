@@ -1,0 +1,657 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 4 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F3': class PDFType1Font 
+4 0 obj
+% Font ZapfDingbats
+<< /BaseFont /ZapfDingbats
+ /Encoding /ZapfDingbatsEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+5 0 obj
+% Page dictionary
+<< /Contents 15 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 14 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page2': class PDFPage 
+6 0 obj
+% Page dictionary
+<< /Contents 16 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 14 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R7': class PDFCatalog 
+7 0 obj
+% Document Root
+<< /Outlines 9 0 R
+ /PageLabels 17 0 R
+ /PageMode /UseNone
+ /Pages 14 0 R
+ /Type /Catalog >>
+endobj
+% 'R8': class PDFInfo 
+8 0 obj
+<< /Author (Wikipedia)
+ /CreationDate (D:20130528113425-01'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (Plum Village) >>
+endobj
+% 'R9': class PDFOutlines 
+9 0 obj
+<< /Count 4
+ /First 10 0 R
+ /Last 13 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+10 0 obj
+<< /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 644.0236
+ 0 ]
+ /Next 11 0 R
+ /Parent 9 0 R
+ /Title (History) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+11 0 obj
+<< /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 443.0236
+ 0 ]
+ /Next 12 0 R
+ /Parent 9 0 R
+ /Prev 10 0 R
+ /Title (Practice) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+12 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Next 13 0 R
+ /Parent 9 0 R
+ /Prev 11 0 R
+ /Title (Hamlets) >>
+endobj
+% 'Outline.3': class OutlineEntryObject 
+13 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 636.0236
+ 0 ]
+ /Parent 9 0 R
+ /Prev 12 0 R
+ /Title (Plum Village GPS) >>
+endobj
+% 'R14': class PDFPages 
+14 0 obj
+% page tree
+<< /Count 2
+ /Kids [ 5 0 R
+ 6 0 R ]
+ /Type /Pages >>
+endobj
+% 'R15': class PDFStream 
+15 0 obj
+% page stream
+<< /Length 8198 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 175.4749 0 Td (Plum Village) Tj T* -175.4749 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 716.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 36.93937 0 Td (Author:) Tj T* -36.93937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Wikipedia) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 686.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .535318 Tw 12 TL /F1 10 Tf 0 0 0 rg (Plum Village \(Vietnamese: L\340ng Mai, French: Village des pruniers\) is a Buddhist meditation center of the) Tj T* 0 Tw (Order of Interbeing in the Dordogne, in southern France.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 656.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.667318 Tw (It was founded by Vietnamese monk Th\355ch Nh) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t H) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (nh, and his colleague Bhikkhuni Ch\342n Kh\364ng, in) Tj T* 0 Tw (1982.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 623.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (History) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 485.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 122 Tm /F1 10 Tf 12 TL 3.077318 Tw (After being refused the right to return to Vietnam, Th\355ch Nh) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t H) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (nh formed a small mindfulness) Tj T* 0 Tw .638735 Tw (community 100 miles south-west of Paris called the Sweet Potato, the food that poor Vietnamese eat. In) Tj T* 0 Tw 1.313318 Tw (1981, Sweet Potato community held its first summer retreat, which attracted more people than it could) Tj T* 0 Tw .382485 Tw (accommodate. Th\355ch Nh) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t H) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (nh then traveled south with his colleague Ch\342n Kh\364ng to find a larger site.) Tj T* 0 Tw .369431 Tw (They found a piece of land in Th\351nac which seemed ideal. The landowner, Mr. Dezon, didn't want to sell,) Tj T* 0 Tw .293516 Tw (so they continued looking. A few days later, on September 28, 1982, Th\355ch Nh) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t H) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (nh purchased a tract) Tj T* 0 Tw .63683 Tw (of land about 6 kilometers away, which is now known as the Lower Hamlet \(X\363m H) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (\). Later that year, a) Tj T* 0 Tw 1.829986 Tw (hailstorm destroyed the vineyards on Mr. Dezon's property and he was forced to put his land on the) Tj T* 0 Tw 2.285318 Tw (market. Nh) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t H) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (nh bought the land and called it Upper Hamlet \(X\363m Th) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL (ng\). Initially, these two) Tj T* 0 Tw 1.436651 Tw (hamlets were named Persimmon Village \(L\340ng H) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (ng\), but it soon became clear that plum trees fared) Tj T* 0 Tw (much better on the rocky soil, so it became Plum Village \(L\340ng Mai\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 455.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.409983 Tw (Every year the community hosts a four-week summer retreat, which has grown increasingly popular in) Tj T* 0 Tw (recent years. Attendance has grown from 232 people in 1983 to over 2000 people in recent years.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 422.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Practice) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 404.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The following is the schedule for an average day at Plum Village \(L\340ng Mai\):) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 398.0236 cm
+Q
+q
+1 0 0 1 62.69291 398.0236 cm
+Q
+q
+1 0 0 1 62.69291 386.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (5:00am: Rise) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 380.0236 cm
+Q
+q
+1 0 0 1 62.69291 368.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (6:00am: Sitting and walking meditation) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 362.0236 cm
+Q
+q
+1 0 0 1 62.69291 350.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (7:30am: Breakfast) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 344.0236 cm
+Q
+q
+1 0 0 1 62.69291 332.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (9:00am: Dharma Talk / Class / Presentation / Mindful work period) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 326.0236 cm
+Q
+q
+1 0 0 1 62.69291 314.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (11:30am: Walking meditation) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 308.0236 cm
+Q
+q
+1 0 0 1 62.69291 296.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (12:30pm: Lunch) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 290.0236 cm
+Q
+q
+1 0 0 1 62.69291 278.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1:30pm: Rest) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 272.0236 cm
+Q
+q
+1 0 0 1 62.69291 260.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3:00pm: Working meditation) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 254.0236 cm
+Q
+q
+1 0 0 1 62.69291 242.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (5:30pm: Sitting meditation) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 236.0236 cm
+Q
+q
+1 0 0 1 62.69291 224.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (6:30pm: Optional dinner) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 218.0236 cm
+Q
+q
+1 0 0 1 62.69291 206.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (8:00pm: Personal study, Happiness Meeting, Beginning Anew) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 200.0236 cm
+Q
+q
+1 0 0 1 62.69291 188.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (10:00pm: Noble silence begins) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 182.0236 cm
+Q
+q
+1 0 0 1 62.69291 170.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (10:30pm: Lights out) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 170.0236 cm
+Q
+ 
+endstream
+endobj
+% 'R16': class PDFStream 
+16 0 obj
+% page stream
+<< /Length 1889 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Hamlets) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 678.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 2.649984 Tw (Today, Plum Village \(L\340ng Mai\) is made up of four major residential hamlets. Upper Hamlet \(X\363m) Tj T* 0 Tw .675984 Tw (Th) Tj /F3 10 Tf 12 TL (nn) Tj /F1 10 Tf 12 TL (ng\) houses approximately 65 monks and laymen, as well as being Th\355ch Nh) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (t H) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (nh 's residence.) Tj T* 0 Tw .311318 Tw (Lower Hamlet \(X\363m H) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (\) houses over 40 nuns and laywomen. S) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (n H) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL ( Temple houses approximately 20) Tj T* 0 Tw 1.242485 Tw (monks, and the New Hamlet \(X\363m M) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (i\), 20 minutes away by bus, houses approximately 40 nuns and) Tj T* 0 Tw (laywomen.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 648.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .044987 Tw (Plum Village \(L\340ng Mai\) has branches in the United States of America : Blue Cliff Monastery in Pine Bush,) Tj T* 0 Tw (New York, and Deer Park Monastery \(Tu Vi) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (n L) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (c Uy) Tj /F3 10 Tf 12 TL (n) Tj /F1 10 Tf 12 TL (n\) in Escondido, California .) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 615.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Plum Village GPS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 597.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (44.733565, 0.319117) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 579.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (+44\260 44' 0.83", +0\260 19' 8.82") Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R17': class PDFPageLabels 
+17 0 obj
+% Document Root
+<< /Nums [ 0
+ 18 0 R
+ 1
+ 19 0 R ] >>
+endobj
+% 'R18': class PDFPageLabel 
+18 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R19': class PDFPageLabel 
+19 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+xref
+0 20
+0000000000 65535 f
+0000000113 00000 n
+0000000233 00000 n
+0000000398 00000 n
+0000000573 00000 n
+0000000747 00000 n
+0000001026 00000 n
+0000001305 00000 n
+0000001461 00000 n
+0000001728 00000 n
+0000001852 00000 n
+0000002018 00000 n
+0000002200 00000 n
+0000002381 00000 n
+0000002540 00000 n
+0000002655 00000 n
+0000010952 00000 n
+0000012944 00000 n
+0000013050 00000 n
+0000013127 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\030\247Y \370\2335\310\216l\011\360UT\315:) (\030\247Y \370\2335\310\216l\011\360UT\315:)] 
+
+ /Info 8 0 R
+ /Root 7 0 R
+ /Size 20 >>
+startxref
+13174
+%%EOF

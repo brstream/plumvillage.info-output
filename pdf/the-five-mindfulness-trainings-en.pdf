@@ -1,0 +1,316 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 4 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F3': class PDFType1Font 
+4 0 obj
+% Font Helvetica-Oblique
+<< /BaseFont /Helvetica-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+5 0 obj
+% Page dictionary
+<< /Contents 16 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 15 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page2': class PDFPage 
+6 0 obj
+% Page dictionary
+<< /Contents 17 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 15 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R7': class PDFCatalog 
+7 0 obj
+% Document Root
+<< /Outlines 9 0 R
+ /PageLabels 18 0 R
+ /PageMode /UseNone
+ /Pages 15 0 R
+ /Type /Catalog >>
+endobj
+% 'R8': class PDFInfo 
+8 0 obj
+<< /Author ()
+ /CreationDate (D:20130528113425-01'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (The Five Mindfulness Trainings) >>
+endobj
+% 'R9': class PDFOutlines 
+9 0 obj
+<< /Count 5
+ /First 10 0 R
+ /Last 14 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+10 0 obj
+<< /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 635.0236
+ 0 ]
+ /Next 11 0 R
+ /Parent 9 0 R
+ /Title (Reverence for Life) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+11 0 obj
+<< /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 512.0236
+ 0 ]
+ /Next 12 0 R
+ /Parent 9 0 R
+ /Prev 10 0 R
+ /Title (True Happiness) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+12 0 obj
+<< /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 353.0236
+ 0 ]
+ /Next 13 0 R
+ /Parent 9 0 R
+ /Prev 11 0 R
+ /Title (True Love) >>
+endobj
+% 'Outline.3': class OutlineEntryObject 
+13 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Next 14 0 R
+ /Parent 9 0 R
+ /Prev 12 0 R
+ /Title (Loving Speech and Deep Listening) >>
+endobj
+% 'Outline.4': class OutlineEntryObject 
+14 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 582.0236
+ 0 ]
+ /Parent 9 0 R
+ /Prev 13 0 R
+ /Title (Nourishment and Healing) >>
+endobj
+% 'R15': class PDFPages 
+15 0 obj
+% page tree
+<< /Count 2
+ /Kids [ 5 0 R
+ 6 0 R ]
+ /Type /Pages >>
+endobj
+% 'R16': class PDFStream 
+16 0 obj
+% page stream
+<< /Length 5084 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 85.46488 0 Td (The Five Mindfulness Trainings) Tj T* -85.46488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 647.0236 cm
+q
+BT 1 0 0 1 0 74 Tm .18936 Tw 12 TL /F3 10 Tf 0 0 0 rg (The Five Mindfulness Trainings represent the Buddhist vision for a global spirituality and ethic. They are a) Tj T* 0 Tw 1.050651 Tw (concrete expression of the Buddha\222s teachings on the Four Noble Truths and the Noble Eightfold Path,) Tj T* 0 Tw 2.514269 Tw (the path of right understanding and true love, leading to healing, transformation, and happiness for) Tj T* 0 Tw 2.273735 Tw (ourselves and for the world. To practice the Five Mindfulness Trainings is to cultivate the insight of) Tj T* 0 Tw .350651 Tw (interbeing, or Right View, which can remove all discrimination, intolerance, anger, fear, and despair. If we) Tj T* 0 Tw .144104 Tw (live according to the Five Mindfulness Trainings, we are already on the path of a bodhisattva. Knowing we) Tj T* 0 Tw (are on that path, we are not lost in confusion about our life in the present or in fears about the future.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 614.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Reverence for Life) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 524.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 74 Tm /F1 10 Tf 12 TL 2.203516 Tw (Aware of the suffering caused by the destruction of life, I am committed to cultivating the insight of) Tj T* 0 Tw .089318 Tw (interbeing and compassion and learning ways to protect the lives of people, animals, plants, and minerals.) Tj T* 0 Tw 1.000859 Tw (I am determined not to kill, not to let others kill, and not to support any act of killing in the world, in my) Tj T* 0 Tw .831163 Tw (thinking, or in my way of life. Seeing that harmful actions arise from anger, fear, greed, and intolerance,) Tj T* 0 Tw .364597 Tw (which in turn come from dualistic and discriminative thinking, I will cultivate openness, non-discrimination,) Tj T* 0 Tw .869318 Tw (and non-attachment to views in order to transform violence, fanaticism, and dogmatism in myself and in) Tj T* 0 Tw (the world.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 491.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (True Happiness) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 365.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 110 Tm /F1 10 Tf 12 TL .126651 Tw (Aware of the suffering caused by exploitation, social injustice, stealing, and oppression, I am committed to) Tj T* 0 Tw .04528 Tw (practicing generosity in my thinking, speaking, and acting. I am determined not to steal and not to possess) Tj T* 0 Tw .27528 Tw (anything that should belong to others; and I will share my time, energy, and material resources with those) Tj T* 0 Tw .975777 Tw (who are in need. I will practice looking deeply to see that the happiness and suffering of others are not) Tj T* 0 Tw .33284 Tw (separate from my own happiness and suffering; that true happiness is not possible without understanding) Tj T* 0 Tw 2.159269 Tw (and compassion; and that running after wealth, fame, power and sensual pleasures can bring much) Tj T* 0 Tw 1.609985 Tw (suffering and despair. I am aware that happiness depends on my mental attitude and not on external) Tj T* 0 Tw .765868 Tw (conditions, and that I can live happily in the present moment simply by remembering that I already have) Tj T* 0 Tw .134987 Tw (more than enough conditions to be happy. I am committed to practicing Right Livelihood so that I can help) Tj T* 0 Tw (reduce the suffering of living beings on Earth and reverse the process of global warming.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 332.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (True Love) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 206.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 110 Tm /F1 10 Tf 12 TL 1.923555 Tw (Aware of the suffering caused by sexual misconduct, I am committed to cultivating responsibility and) Tj T* 0 Tw .089318 Tw (learning ways to protect the safety and integrity of individuals, couples, families, and society. Knowing that) Tj T* 0 Tw 1.160574 Tw (sexual desire is not love, and that sexual activity motivated by craving always harms myself as well as) Tj T* 0 Tw 2.583735 Tw (others, I am determined not to engage in sexual relations without true love and a deep, long-term) Tj T* 0 Tw 1.226457 Tw (commitment made known to my family and friends. I will do everything in my power to protect children) Tj T* 0 Tw .645318 Tw (from sexual abuse and to prevent couples and families from being broken by sexual misconduct. Seeing) Tj T* 0 Tw 1.772765 Tw (that body and mind are one, I am committed to learning appropriate ways to take care of my sexual) Tj T* 0 Tw 1.843555 Tw (energy and cultivating loving kindness, compassion, joy and inclusiveness \226 which are the four basic) Tj T* 0 Tw .078221 Tw (elements of true love \226 for my greater happiness and the greater happiness of others. Practicing true love,) Tj T* 0 Tw (we know that we will continue beautifully into the future.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R17': class PDFStream 
+17 0 obj
+% page stream
+<< /Length 3419 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Loving Speech and Deep Listening) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 594.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 134 Tm /F1 10 Tf 12 TL .382765 Tw (Aware of the suffering caused by unmindful speech and the inability to listen to others, I am committed to) Tj T* 0 Tw 3.18152 Tw (cultivating loving speech and compassionate listening in order to relieve suffering and to promote) Tj T* 0 Tw 1.682126 Tw (reconciliation and peace in myself and among other people, ethnic and religious groups, and nations.) Tj T* 0 Tw .497984 Tw (Knowing that words can create happiness or suffering, I am committed to speaking truthfully using words) Tj T* 0 Tw .536654 Tw (that inspire confidence, joy, and hope. When anger is manifesting in me, I am determined not to speak. I) Tj T* 0 Tw .414987 Tw (will practice mindful breathing and walking in order to recognize and to look deeply into my anger. I know) Tj T* 0 Tw .185251 Tw (that the roots of anger can be found in my wrong perceptions and lack of understanding of the suffering in) Tj T* 0 Tw .433798 Tw (myself and in the other person. I will speak and listen in a way that can help myself and the other person) Tj T* 0 Tw .157356 Tw (to transform suffering and see the way out of difficult situations. I am determined not to spread news that I) Tj T* 0 Tw .956488 Tw (do not know to be certain and not to utter words that can cause division or discord. I will practice Right) Tj T* 0 Tw .660751 Tw (Diligence to nourish my capacity for understanding, love, joy, and inclusiveness, and gradually transform) Tj T* 0 Tw (anger, violence, and fear that lie deep in my consciousness.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 561.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Nourishment and Healing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 411.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 134 Tm /F1 10 Tf 12 TL .421984 Tw (Aware of the suffering caused by unmindful consumption, I am committed to cultivating good health, both) Tj T* 0 Tw 1.722651 Tw (physical and mental, for myself, my family, and my society by practicing mindful eating, drinking, and) Tj T* 0 Tw .363735 Tw (consuming. I will practice looking deeply into how I consume the Four Kinds of Nutriments, namely edible) Tj T* 0 Tw .459984 Tw (foods, sense impressions, volition, and consciousness. I am determined not to gamble, or to use alcohol,) Tj T* 0 Tw 2.757126 Tw (drugs, or any other products which contain toxins, such as certain websites, electronic games, TV) Tj T* 0 Tw .297126 Tw (programs, films, magazines, books, and conversations. I will practice coming back to the present moment) Tj T* 0 Tw 1.744692 Tw (to be in touch with the refreshing, healing and nourishing elements in me and around me, not letting) Tj T* 0 Tw 1.328409 Tw (regrets and sorrow drag me back into the past nor letting anxieties, fear, or craving pull me out of the) Tj T* 0 Tw 1.059986 Tw (present moment. I am determined not to try to cover up loneliness, anxiety, or other suffering by losing) Tj T* 0 Tw .188735 Tw (myself in consumption. I will contemplate interbeing and consume in a way that preserves peace, joy, and) Tj T* 0 Tw .328735 Tw (well-being in my body and consciousness, and in the collective body and consciousness of my family, my) Tj T* 0 Tw (society and the Earth.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R18': class PDFPageLabels 
+18 0 obj
+% Document Root
+<< /Nums [ 0
+ 19 0 R
+ 1
+ 20 0 R ] >>
+endobj
+% 'R19': class PDFPageLabel 
+19 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R20': class PDFPageLabel 
+20 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+xref
+0 21
+0000000000 65535 f
+0000000113 00000 n
+0000000233 00000 n
+0000000398 00000 n
+0000000573 00000 n
+0000000752 00000 n
+0000001031 00000 n
+0000001310 00000 n
+0000001466 00000 n
+0000001742 00000 n
+0000001866 00000 n
+0000002043 00000 n
+0000002231 00000 n
+0000002414 00000 n
+0000002620 00000 n
+0000002786 00000 n
+0000002901 00000 n
+0000008084 00000 n
+0000011606 00000 n
+0000011712 00000 n
+0000011789 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\264Xyu\343u\261\336#\235\303\232t\023\026\020) (\264Xyu\343u\261\336#\235\303\232t\023\026\020)] 
+
+ /Info 8 0 R
+ /Root 7 0 R
+ /Size 21 >>
+startxref
+11836
+%%EOF
